@@ -32,9 +32,9 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 🧑🏻‍💻 **Developer:** @Quality_Linksz
 
-👥 **Support Group:** [Linux Repositories](https://t.me/Quality_Linkzs)
+👥 **Support Group:** [𝐐𝐮𝐚𝐥𝐢𝐭𝐲 𝐋𝐢𝐧𝐤𝐬](https://t.me/Quality_Linkzs)
 
-📢 **Updates Channel:** [Discovery Projects](https://t.me/Quality_Linkzs)
+📢 **Updates Channel:** [𝐐𝐮𝐚𝐥𝐢𝐭𝐲 𝐋𝐢𝐧𝐤𝐬](https://t.me/Quality_Linkzs)
 """
 	ABOUT_DEV_TEXT = f"""
 🧑🏻‍💻 **Developer:** @Quality_Linkzs
