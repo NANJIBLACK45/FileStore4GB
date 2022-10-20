@@ -30,7 +30,7 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 📡 **Hosted on:** [Heroku](https://heroku.com)
 
-🧑🏻‍💻 **Developer:** @Quality_Linksz
+🧑🏻‍💻 **Developer:** @Quality_LinkzS
 
 👥 **Support Group:** [𝐐𝐮𝐚𝐥𝐢𝐭𝐲 𝐋𝐢𝐧𝐤𝐬](https://t.me/Quality_Linkzs)
 
